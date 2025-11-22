@@ -1,1 +1,1 @@
-# Real_Time_Kmeans_Algo
+*Real Time KMeans clustering from scratch using numpy only
